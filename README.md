@@ -2,7 +2,7 @@
   <tr style="border: none;">
     <td align="center" width="300" style="border: none;">
       <!-- This link automatically fetches your GitHub profile picture -->
-      <img src="https://github.com/adhyayana108/adhyayana108/blob/main/github.jpeg?raw=true" width="250" style="border-radius: 50%; border: 2px solid #555;">
+      <img src="https://github.com/adhyayana108/adhyayana108/blob/main/image.png?raw=true" width="250" style="border-radius: 50%; border: 2px solid #555;">
     </td>
     <td style="border: none;">
 <pre><code>=================================================================
